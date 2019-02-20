@@ -4,4 +4,7 @@ class Show < ActiveRecord::Base
 
   def most_popular_show
   end
+
+  def lowest_rating
+  end
 end
